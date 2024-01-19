@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/sland/projects/Warehouse-RTS/Warehouse-RTS/Content/gray_tile.png</SourceFile>
+  <SourceTime>2024-01-18T07:33:30.2674814-08:00</SourceTime>
+  <DestFile>C:/Users/sland/projects/Warehouse-RTS/Warehouse-RTS/Content/bin/DesktopGL/Content/gray_tile_0.xnb</DestFile>
+  <DestTime>2024-01-18T08:56:56.5996605-08:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2022-07-26T04:44:56-07:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2022-07-26T04:44:56-07:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

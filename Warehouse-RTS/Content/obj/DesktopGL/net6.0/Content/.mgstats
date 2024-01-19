@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/sland/projects/Warehouse-RTS/Warehouse-RTS/Content/Game.spritefont","C:/Users/sland/projects/Warehouse-RTS/Warehouse-RTS/Content/bin/DesktopGL/Content/Game.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1865397
+"C:/Users/sland/projects/Warehouse-RTS/Warehouse-RTS/Content/gray_tile.png","C:/Users/sland/projects/Warehouse-RTS/Warehouse-RTS/Content/bin/DesktopGL/Content/gray_tile_0.xnb","TextureProcessor","Texture2DContent",675,32853,0.1006878
+"C:/Users/sland/projects/Warehouse-RTS/Warehouse-RTS/Content/TileMap.tmx","C:/Users/sland/projects/Warehouse-RTS/Warehouse-RTS/Content/bin/DesktopGL/Content/TileMap.xnb","TiledMapProcessor","TiledMapContentItem",33629,131287,0.1636061
